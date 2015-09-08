@@ -10,7 +10,9 @@ This is simplest kata. You should start from it.
  * if parameter is dividable by 3 return Fizz
  * if parameter is dividable by 5 return Buzz
  * if parameter is dividable by 3 and 5 return FizzBuzz
- * otherwise return empty string.
+ * otherwise return parameter as string.
+ 
+Your application should print result for number from 1 to 100. 
 
 ## Focus 
 
