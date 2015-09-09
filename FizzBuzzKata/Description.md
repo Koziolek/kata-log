@@ -34,15 +34,15 @@ This kata has quite short set of steps. Some of them are repeating few times wit
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create second test `shouldReturnFizzFor5`
+ * Create second test `shouldReturnBuzzFor5`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create third test `shouldReturnFizzFor0`
+ * Create third test `shouldReturnFizzBuzzFor0`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create fourth test `shouldReturnFizzFor1`
+ * Create fourth test `shouldReturn1For1`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
