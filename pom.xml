@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>FizzBuzzKata</module>
+    <module>debug-kata</module>
   </modules>
 </project>
