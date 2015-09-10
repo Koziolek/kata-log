@@ -16,7 +16,7 @@ Your application should print result for number from 1 to 100.
 
 ## Focus 
 
-You should focus on one of:
+You should focus on one of: 
 
  * IDE work (key shortcuts, flow of work, basic project setup)
  * TDD methodology in your favorite framework
@@ -34,20 +34,20 @@ This kata has quite short set of steps. Some of them are repeating few times wit
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create second test `shouldReturnFizzFor5`
+ * Create second test `shouldReturnBuzzFor5`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create third test `shouldReturnFizzFor0`
+ * Create third test `shouldReturnFizzBuzzFor0`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
- * Create fourth test `shouldReturnFizzFor1`
+ * Create fourth test `shouldReturn1For1`
  * Run it (red)
  * Add implementation to satisfy test
  * Run test (green)
 
-This is end of part one of this kata. Ww have application that satisfy all conditions. Sensei could order 
+This is end of part one of this kata. We have application that satisfy all conditions. Sensei could order 
 continuation of work and focus on selected cases. Basic paths is to add more tests, split method to smaller ones or 
 use some features from framework.
  
